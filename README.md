@@ -14,7 +14,8 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<iframe width="381" height="678" src="https://www.youtube.com/embed/PlZLSYigLBQ" title="CodePath Prework Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![CodePath Prework Project](https://img.youtube.com/vi/PlZLSYigLBQ/0.jpg)](https://www.youtube.com/watch?v=PlZLSYigLBQ)
+
 
 ## App Brainstorming (Step 4)
 **Favorite Apps**
