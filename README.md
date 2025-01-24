@@ -15,6 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/u3fi3lX" data-context="false" ><a href="//imgur.com/a/u3fi3lX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 [![CodePath Prework Project](https://img.youtube.com/vi/PlZLSYigLBQ/0.jpg)](https://www.youtube.com/watch?v=PlZLSYigLBQ)
 
 
